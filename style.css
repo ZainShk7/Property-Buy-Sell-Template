@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+img{
+    height: 600px;
+    width: 100%;
+}
+div h1{
+    color: white;
+    position: relative;
+    bottom: 515px;
+    text-align: center;
+    font-size: -webkit-xxx-large;
+    font-weight: revert;
+    word-spacing: 5px;
+}
+#des{
+    color: white;
+    position: relative;
+    bottom: 500px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;  
+}
+#des2{
+color: white;
+    position: relative;
+    bottom: 490px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+#loc{
+    background: #09b0fe;
+    display: inline-block;
+    position: relative;
+    height: 40px;
+    width: 40px;
+    bottom: 483px;
+    left: 393px;
+}
+#FAsettlment{
+    color: white;
+    position: relative;
+    left: 15px;
+    top: 10px;
+}
+#S-bar{
+    background: white;
+    display: inline-block;
+    position: relative;
+    height: 40px;
+    width: 450px;
+    bottom: 475px;
+    left: 390px;
+}
+#S-bartxt{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    margin-left: 8px;
+    margin-top: 10px;
+    opacity: 0.5;
+
+}
+#loc2{
+    background: #09b0fe;
+    display: inline-block;
+    position: relative;
+    height: 40px;
+    width: 40px;
+    bottom: 483px;
+    left: 387px;
+}
+.sky-block{
+    background: #09b0fe;
+    position: relative;
+    width: 250px;
+    height: 300px;
+    right: 430px;
+    bottom: 180px;
+}
+.White-block{
+    background: wheat;
+    position: relative;
+    width: 250px;
+    height: 300px;
+    right: 270px;
+    bottom: 180px;
+}
+.White-block2{
+    background: wheat;
+    position: relative;
+    width: 250px;
+    height: 300px;
+    right: 270px;
+    bottom: 292px;
+    right: -385px;
+}
+.sky-inside-block{
+    padding: 25px;
+
+}
+div h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+#AwardICON{
+    color: white;
+    font-size: 65px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#RE-prop{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.test{
+    display: inline-flex;
+    flex-wrap: wrap;
+}
